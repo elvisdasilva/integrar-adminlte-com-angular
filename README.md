@@ -1,6 +1,6 @@
 ## Como integrar Admin LTE com Angular
 
-Neste tutorial, você irá aprender como integrar de forma simples o Dashboard [AdminLTE](https://adminlte.io/) com o framework [Angular](https://angular.io/).
+Neste tutorial, você irá aprender como integrar de forma simples o Dashboard [AdminLTE](https://adminlte.io/) com o Framework [Angular](https://angular.io/).
 
 1.  Criar e configurar um novo projeto Angular
 2.  Importar os styles e scripts para o projeto
