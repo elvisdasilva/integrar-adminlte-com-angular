@@ -64,7 +64,7 @@ ng serve --open.
 
 **Preview:**
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/animations/30a5618d16888490fe710fbdf328fd030133bf78903ff5b9.gif)
+<img src = "./preview.gif" alt="Preview">
 
 ### 4 . Corrigir links das imagens
 
