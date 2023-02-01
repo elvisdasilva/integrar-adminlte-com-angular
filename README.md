@@ -5,8 +5,7 @@ Neste tutorial, você irá aprender como integrar de forma simples o Dashboard [
 1.  Criar e configurar um novo projeto Angular
 2.  Importar os styles e scripts para o projeto
 3.  Criar componentes e adicionar conteúdo html
-4.  Corrigir links das imagens  
-     
+4.  Corrigir links das imagens
 
 ### 1 . Criar e configurar um novo projeto Angular
 
@@ -36,8 +35,7 @@ _content-wrapper –_ esta é uma tag **\<div> com class=”content-wrapper”**
 
 _control-sidebar –_ esta é a tag **\<aside>\</aside> com class=”control-sidebar”**
 
-_main-footer –_ esta é a tag **\<footer>\</footer> com class=”main-footer”**  
- 
+_main-footer –_ esta é a tag **\<footer>\</footer> com class=”main-footer”**  
 
 *   Agora você precisa criar esses 5 componentes com os nomes correspondentes as classes acima, para isso use o comando abaixo:
 
@@ -64,9 +62,12 @@ ng g c <nome do componente>
 ng serve --open.
 ```
 
+**Preview:**
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/animations/30a5618d16888490fe710fbdf328fd030133bf78903ff5b9.gif)
+
 ### 4 . Corrigir links das imagens
 
-  
 Quando a aplicação for executada, você notará que algumas imagens não estão aparecendo. Vamos consertar agora.
 
 *   Para cada um dos componentes, localize as tags **\<img>\</img>**. Adicione o prefixo assets/ aos atributos src para que eles apontem para a pasta correta dentro da pasta assets. Através do VS Code é possível fazer essa alteração em múltiplas tags ao mesmo tempo.
